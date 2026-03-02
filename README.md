@@ -1,54 +1,82 @@
 # CS255-DriverPass-Portfolio
 Portfolio submission for CS 255 – System Analysis and Design (DriverPass Project)
-DriverPass Project Portfolio Reflection
-Project Summary
+This repository contains my portfolio submission for CS 255 – System Analysis and Design at Southern New Hampshire University.
 
-The DriverPass project focused on designing a system for a client named DriverPass, a company that provides driver training services to help students pass their DMV driving tests. The client wanted a web-based system that would allow students to register, schedule driving lessons, take online practice tests, and manage their accounts. The system also needed administrative functionality for staff to manage users, track lesson availability, generate reports, and maintain DMV-related content updates.
+The DriverPass project required the analysis and design of a web-based system for a driver training company. The client, DriverPass, wanted a centralized cloud-based system that integrates online DMV practice exams with behind-the-wheel driving lesson scheduling and administrative management.
 
-For Project One, I developed a Business Requirements Document that identified stakeholder needs, system requirements, constraints, assumptions, and functional requirements. For Project Two, I created a System Design Document that translated those requirements into technical components, including system architecture, UML diagrams, database design, and interface considerations.
+The purpose of this project was to gather business requirements and translate them into a structured system design using UML modeling and technical documentation.
 
-Together, these documents demonstrate my ability to analyze business needs and convert them into a structured system design.
+📄 Included Documents
 
-What I Did Well
+This repository includes:
 
-One area I performed particularly well in was clearly identifying and organizing functional and non-functional requirements. I carefully reviewed the interview transcript and extracted specific user needs, ensuring they were translated into measurable and actionable requirements.
+DriverPass Business Requirements Document
+Defines system goals, functional and nonfunctional requirements, constraints, assumptions, and measurable objectives.
 
-I also did well in maintaining traceability between business requirements and system design components. The UML diagrams, database structure, and architectural decisions were aligned with the client’s goals, especially regarding user account management, scheduling, and online testing functionality.
+DriverPass System Design Document
+Includes UML diagrams (Use Case, Activity, Sequence, and Class Diagrams), system architecture components, and technical specifications.
 
-What I Would Revise and Improve
+Together, these documents demonstrate the transition from stakeholder needs to technical system modeling.
 
-If I could revise one part of my work, I would improve the UML diagrams and system architecture documentation by adding more detailed annotations. While the diagrams were technically correct, I could enhance clarity by labeling relationships more explicitly and adding short explanations for each major component.
+🧠 Reflection
+Brief Summary of the DriverPass Project
 
-Additionally, I would refine the non-functional requirements section by including more measurable performance criteria (e.g., system response time benchmarks, security encryption standards, or availability percentages).
+DriverPass is a driver training company that aims to improve student success rates on DMV exams. The client required a web-based system that allows students to register, take online practice exams, schedule driving lessons, and track progress. The system also needed administrative capabilities for managing users, instructors, vehicles, and reports.
 
-Interpreting User Needs and Implementation
+In Project One, I developed the Business Requirements Document by analyzing the client interview and identifying functional and nonfunctional requirements. In Project Two, I translated those requirements into technical models using UML diagrams and defined the system’s technical infrastructure.
 
-To interpret the user’s needs, I carefully analyzed the interview transcript and identified repeated themes such as accessibility, ease of scheduling, and up-to-date DMV content. I translated those needs into system features like secure login authentication, scheduling modules, administrative controls, and content management capabilities.
+What I Did Particularly Well
 
-Considering user needs is critical when designing software because the system must solve real problems for real people. If the system is technically correct but does not align with user expectations, it will fail in practice. User-centered design ensures usability, efficiency, and long-term success.
+I performed well in organizing and defining clear functional and nonfunctional requirements. I ensured that performance, security, scalability, and usability requirements were measurable and aligned with the client’s needs.
 
-My Approach to Software Design
+I also effectively modeled system behavior through UML diagrams. The activity and sequence diagrams clearly illustrate system workflows, while the class diagram demonstrates structured object-oriented design.
 
-When approaching software design, I begin with requirements gathering and stakeholder analysis. I focus on understanding:
+What I Would Revise or Improve
 
-Who will use the system
+If I were to revise one part of this project, I would enhance the UML diagrams by adding additional annotations and relationship labels to improve clarity for stakeholders. I would also expand measurable technical specifications such as defining specific uptime percentages or security standards.
 
-What problems the system must solve
+Interpreting User Needs
 
-What constraints exist (technical, budget, timeline)
+I interpreted user needs by carefully reviewing the DriverPass interview transcript and identifying recurring themes such as:
 
-I then break the system into logical components, define functional requirements, and create diagrams such as UML use case diagrams, class diagrams, and process models.
+Easy scheduling
 
-In the future, I would continue using structured techniques such as:
+Secure account access
 
-Requirements traceability matrices
+Accurate progress tracking
 
-Use case modeling
+Up-to-date DMV testing materials
 
-Data flow diagrams
+These needs were translated into system features such as role-based access control, automated scheduling validation, real-time exam grading, and audit logging.
 
-Iterative review and stakeholder feedback
+Considering user needs is essential in system design because a technically sound system must also be practical and usable. Designing with the user in mind ensures system adoption and long-term success.
 
-Applying Agile principles for incremental improvements
+My Approach to Designing Software
 
-This project strengthened my ability to move from business analysis to technical system design, which is an essential skill in software development.
+My approach to system design follows a structured process:
+
+Analyze stakeholder requirements
+
+Define functional and nonfunctional requirements
+
+Model system behavior using UML diagrams
+
+Identify technical constraints and infrastructure needs
+
+Maintain traceability between requirements and design
+
+In future projects, I will continue using UML modeling, structured requirement documentation, and iterative refinement to design secure and scalable systems.
+
+🎯 Portfolio Purpose
+
+This repository demonstrates my ability to:
+
+Gather and document business requirements
+
+Translate requirements into technical system design
+
+Apply UML modeling techniques
+
+Design secure, scalable web-based systems
+
+This project reflects my development in systems analysis and design and serves as part of my professional Computer Science portfolio.
